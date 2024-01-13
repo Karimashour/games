@@ -16,4 +16,6 @@ https://karimashour.github.io/games/
 
 
 # features
-- 
+- full responsive games website
+
+
